@@ -1,7 +1,7 @@
-package com.project.services;
+package com.project.SpringBootMangoDBRedis.services;
 
 import com.project.entities.Flight;
-import com.project.repositories.FlightRepository;
+import com.project.SpringBootMangoDBRedis.repositories.FlightRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;

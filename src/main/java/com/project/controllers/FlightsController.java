@@ -1,7 +1,7 @@
 package com.project.controllers;
 
 import com.project.entities.Flight;
-import com.project.services.FlightService;
+import com.project.SpringBootMangoDBRedis.services.FlightService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
