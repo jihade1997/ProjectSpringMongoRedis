@@ -1,4 +1,4 @@
-package com.project.repositories;
+package com.project.SpringBootMangoDBRedis.repositories;
 
 import com.project.entities.Flight;
 import org.springframework.data.mongodb.repository.MongoRepository;
